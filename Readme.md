@@ -1,0 +1,1 @@
+This is the folder that contains all my projects and learnings related to data science using python
